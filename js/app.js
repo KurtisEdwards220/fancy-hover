@@ -16,4 +16,4 @@ const addWord = (text, index) => subtitle.appendChild(createWord(text, index));
 
 const createSubtitle = (text) => text.split(" ").map(addWord);
 
-createSubtitle("Kurtis Edwards");
+createSubtitle("But in a much more real sense, I have no idea what I'm doing.");
